@@ -1,0 +1,29 @@
+ul li {
+  display: inline-block;
+  padding: 10px 30px 10px 30px;
+}
+header{
+  position: absolute;
+  background-color: #6971e0;
+  width: 100%;
+  text-align: center;
+}
+.btn{
+  text-transform: uppercase;
+  text-align: center;
+  position: relative;
+  text-decoration: none;
+  display:inline-block;
+  border-bottom: 2px solid #e99930; 
+  color: #ffffff;
+  font-size:x-large;
+}
+.btn1{
+  text-transform: uppercase;
+  text-align: center;
+  position: relative;
+  text-decoration: none;
+  display:inline-block;
+  color: #ffffff;
+  font-size:x-large;
+}
